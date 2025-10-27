@@ -24,8 +24,7 @@ By leveraging SQL queries, the goal is to understand how different genres perfor
   * `movies` → *(id, name, year, rankscore)*
   * `movies_genres` → *(movie_id, genre)*
 
-* **Dataset Source:** [IMDb Dataset on Kaggle](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset) *(or replace with your actual link)*
-
+* **Dataset Source:** [IMDb Dataset on Kaggle](https://github.com/Debabrataswain3/IMDB-DATASET/blob/main/imdb%20data.csv) 
 ---
 
 ### 💡 **Key Questions / KPIs**
